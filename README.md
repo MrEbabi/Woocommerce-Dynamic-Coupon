@@ -1,6 +1,3 @@
-# woocommerce-coupon
-PHP Code For WooCommerce Custom Coupon Generation Programmatically
-
 Kindly check "generate coupon" code.
 
 Description:
