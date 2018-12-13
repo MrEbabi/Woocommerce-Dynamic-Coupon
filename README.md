@@ -14,6 +14,3 @@ Description:
      
 Add those codes to functions.php file of your theme. Please be aware that if you are not using a child theme, after every update your customizations in your theme files will be deleted.
 
-Thanks.
-
-mrebabi
